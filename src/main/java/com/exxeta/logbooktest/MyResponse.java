@@ -7,11 +7,6 @@ import lombok.NoArgsConstructor;
 
 import java.util.UUID;
 
-/**
- * logbook
- *
- * @author 804144, mike.schliephorst.ex@teambank.de
- */
 @Data
 @Builder
 @AllArgsConstructor
