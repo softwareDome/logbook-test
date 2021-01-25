@@ -11,12 +11,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * perobs-exploration
- *
- * @author 804252, philipp.engler.ex@teambank.de
- */
-
 @Slf4j
 @RestController
 @AllArgsConstructor
